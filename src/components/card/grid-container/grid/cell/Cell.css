@@ -1,0 +1,23 @@
+.Cell{
+    width: 1rem;
+    height: 1rem;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--cell-border-color);
+    border-radius: 3px;
+}
+.zero{
+    background-color: var(--cell-empty-color);
+}
+
+.one{
+    background-color: var(--cell-light-color);
+}
+
+.two{
+    background-color: var(--cell-medium-color);
+}
+
+.three{
+    background-color: var(--cell-dark-color);
+}

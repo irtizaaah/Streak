@@ -1,0 +1,38 @@
+.button{
+    background-color: #e7e7e7;
+    border-style: none;
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #181818;
+    border-radius: 3px;
+    margin: 0.25rem;
+}
+
+.button:active{
+    background-color: #181818;
+    color: #e7e7e7;
+}
+
+.Cell{
+    width: 1rem;
+    height: 1rem;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #afafaf;
+    border-radius: 3px;
+}
+.zero{
+    background-color: #dedede;
+}
+
+.one{
+    background-color: #DDF796;
+}
+
+.two{
+    background-color: #A2DE96;
+}
+
+.three{
+    background-color: #158467;
+}

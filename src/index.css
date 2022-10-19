@@ -1,0 +1,28 @@
+:root{
+  --cell-border-color: #afafaf;
+  --cell-empty-color: #dedede;
+  --cell-light-color: #DDF796;
+  --cell-medium-color: #A2DE96;
+  --cell-dark-color: #158467;
+
+  --badge-light-background-color: #CFFF8D;
+  --badge-light-font-color: #749F82;
+  --badge-medium-background-color: #A8E890;
+  --badge-medium-font-color: #5e886c;
+  --badge-dark-background-color: #158467;
+  --badge-dark-font-color: #A8E890;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

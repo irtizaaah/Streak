@@ -1,0 +1,24 @@
+.badge_tag{
+    background-color: blue;
+    margin: 0.25rem;
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    font-size: 0.8rem;
+
+    border-radius: 5px;
+}
+
+.streak{
+    background-color: var(--badge-light-background-color);
+    color: var(--badge-light-font-color);
+}
+
+.superStreak{
+    background-color: var(--badge-medium-background-color);
+    color: var(--badge-medium-font-color);
+}
+
+.ultraStreak{
+    background-color: var(--badge-dark-background-color);
+    color: var(--badge-dark-font-color);
+}
+
